@@ -5,7 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=htoomgt" alt="htoomgt" /></a> </p>
 
-- 🌱 I’m currently learning **Advanced Spring Boot**
+- 🔭 I’m currently working on **Optimity Web**
+
+- 🌱 I’m currently learning **Advanced Spring Boot and React**
 
 - 💬 Ask me about **react, laravel**
 
