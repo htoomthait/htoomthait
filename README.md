@@ -7,13 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/htoomaugthait" target="blank"><img src="https://img.shields.io/twitter/follow/htoomaugthait?logo=twitter&style=for-the-badge" alt="htoomaugthait" /></a> </p>
 
-- 🔭 I’m currently working on [optimity web](http://optimitycomm.com/)
+- 🔭 I’m currently studying for the Project Management Professional (PMP) exam.
 
-- 🌱 I’m currently learning **Advanced Java and Spring boot**
+-  ⚙️ I'm working on the development of an application with laravel.
+
+- 🌱 I’m currently learning **Advanced Java and Spring Boot with React and Flutter UI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/htoomthait](https://github.com/htoomthait)
 
-- 💬 Ask me about **react, nest, laravel, linux, mariadb**
+- 💬 Ask me about **React, Nest, laravel, Linux, mariadb**
 
 - 📫 How to reach me **htoomaungthait@gmail.com**
 
